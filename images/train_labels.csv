@@ -1,0 +1,74 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+Mask1 .jpg,224,224,Masked,75,118,169,188
+Mask12 .jpg,224,224,Masked,42,91,143,153
+Mask13 .jpg,224,224,Masked,82,122,177,188
+Mask14 .jpg,224,224,Masked,38,113,134,182
+Mask15 .jpg,224,224,Masked,38,115,135,187
+Mask16 .jpg,224,224,Masked,37,115,138,184
+Mask17 .jpg,224,224,Masked,40,115,138,182
+Mask18 .jpg,224,224,Masked,44,114,155,184
+Mask19 .jpg,224,224,Masked,43,115,135,171
+Mask20 .jpg,224,224,Masked,44,114,136,176
+Mask21 .jpg,224,224,Masked,44,112,137,173
+Mask22 .jpg,224,224,Masked,45,111,151,181
+Mask23 .jpg,224,224,Masked,48,109,134,168
+Mask24 .jpg,224,224,Masked,97,116,171,180
+Mask25 .jpg,224,224,Masked,53,108,132,166
+Mask26 .jpg,224,224,Masked,54,106,138,169
+Mask27 .jpg,224,224,Masked,53,103,133,155
+Mask28 .jpg,224,224,Masked,48,95,132,148
+Mask29 .jpg,224,224,Masked,49,94,127,144
+Mask3 .jpg,224,224,Masked,73,109,154,171
+Mask30 .jpg,224,224,Masked,50,98,132,143
+Mask31 .jpg,224,224,Masked,49,99,131,156
+Mask32 .jpg,224,224,Masked,47,105,128,156
+Mask33 .jpg,224,224,Masked,48,104,129,157
+Mask34 .jpg,224,224,Masked,47,109,132,163
+Mask35 .jpg,224,224,Masked,92,119,172,181
+Mask36 .jpg,224,224,Masked,43,113,130,167
+Mask37 .jpg,224,224,Masked,42,107,126,173
+Mask38 .jpg,224,224,Masked,43,113,124,170
+Mask39 .jpg,224,224,Masked,43,117,123,173
+Mask40 .jpg,224,224,Masked,41,120,117,178
+Mask41 .jpg,224,224,Masked,40,123,116,179
+Mask42 .jpg,224,224,Masked,52,117,127,174
+Mask43 .jpg,224,224,Masked,53,117,122,172
+Mask44 .jpg,224,224,Masked,50,118,121,166
+Mask45 .jpg,224,224,Masked,51,116,121,174
+Mask53 .jpg,224,224,Masked,58,109,143,171
+Mask54 .jpg,224,224,Masked,57,108,143,172
+NoMask1 .jpg,224,224,No Mask,73,123,160,185
+NoMask10 .jpg,224,224,No Mask,68,119,160,177
+NoMask11 .jpg,224,224,No Mask,53,105,143,156
+NoMask12 .jpg,224,224,No Mask,50,109,145,169
+NoMask13 .jpg,224,224,No Mask,71,119,162,185
+NoMask14 .jpg,224,224,No Mask,48,108,147,166
+NoMask15 .jpg,224,224,No Mask,48,111,145,173
+NoMask16 .jpg,224,224,No Mask,51,108,142,166
+NoMask17 .jpg,224,224,No Mask,49,110,143,168
+NoMask18 .jpg,224,224,No Mask,35,124,128,176
+NoMask19 .jpg,224,224,No Mask,36,125,140,184
+NoMask2 .jpg,224,224,No Mask,72,125,161,182
+NoMask20 .jpg,224,224,No Mask,34,124,121,178
+NoMask21 .jpg,224,224,No Mask,36,126,116,182
+NoMask22 .jpg,224,224,No Mask,33,124,116,173
+NoMask23 .jpg,224,224,No Mask,36,126,121,182
+NoMask25 .jpg,224,224,No Mask,64,133,136,191
+NoMask26 .jpg,224,224,No Mask,60,134,150,194
+NoMask27 .jpg,224,224,No Mask,61,130,155,193
+NoMask28 .jpg,224,224,No Mask,61,133,143,191
+NoMask29 .jpg,224,224,No Mask,64,132,153,194
+NoMask3 .jpg,224,224,No Mask,70,114,162,183
+NoMask30 .jpg,224,224,No Mask,61,132,139,194
+NoMask31 .jpg,224,224,No Mask,72,132,159,196
+NoMask33 .jpg,224,224,No Mask,82,128,170,194
+NoMask34 .jpg,224,224,No Mask,81,125,169,196
+NoMask4 .jpg,224,224,No Mask,68,111,165,185
+NoMask41 .jpg,224,224,No Mask,124,126,171,189
+NoMask43 .jpg,224,224,No Mask,124,124,173,187
+NoMask44 .jpg,224,224,No Mask,126,129,174,188
+NoMask5 .jpg,224,224,No Mask,71,111,157,182
+NoMask6 .jpg,224,224,No Mask,70,113,159,182
+NoMask7 .jpg,224,224,No Mask,72,113,160,182
+NoMask8 .jpg,224,224,No Mask,70,114,158,182
+NoMask9 .jpg,224,224,No Mask,68,114,158,176

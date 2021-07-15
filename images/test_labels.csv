@@ -1,0 +1,19 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+Mask10 .jpg,224,224,Masked,42,90,140,152
+Mask11 .jpg,224,224,Masked,40,92,141,152
+Mask2 .jpg,224,224,Masked,82,113,173,190
+Mask4 .jpg,224,224,Masked,72,105,153,168
+Mask5 .jpg,224,224,Masked,76,110,156,167
+Mask6 .jpg,224,224,Masked,73,111,153,168
+Mask7 .jpg,224,224,Masked,34,112,141,180
+Mask8 .jpg,224,224,Masked,38,112,140,178
+Mask9 .jpg,224,224,Masked,36,112,142,180
+NoMask24 .jpg,224,224,No Mask,73,120,161,183
+NoMask32 .jpg,224,224,No Mask,83,128,159,192
+NoMask35 .jpg,224,224,No Mask,75,120,150,186
+NoMask36 .jpg,224,224,No Mask,74,127,189,194
+NoMask38 .jpg,224,224,No Mask,89,126,183,195
+NoMask39 .jpg,224,224,No Mask,107,134,175,189
+NoMask40 .jpg,224,224,No Mask,115,131,180,193
+NoMask42 .jpg,224,224,No Mask,128,133,173,191
+NoMask45 .jpg,224,224,No Mask,127,126,173,187
