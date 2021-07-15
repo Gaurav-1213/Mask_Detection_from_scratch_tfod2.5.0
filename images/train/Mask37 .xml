@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Allimages</folder>
+	<filename>Mask37 .jpg</filename>
+	<path>C:\Users\patil\Downloads\Deep Learning\Advance_DL\Mask_Detection_N\RealTimeObjectDetection\Tensorflow\workspace\images\Allimages\Mask37 .jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Masked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>107</ymin>
+			<xmax>126</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>
